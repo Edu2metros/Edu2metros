@@ -1,16 +1,19 @@
-### Hi there 👋
+<h2 align="center">  <a href="#"></></a>
+  Hi! I'm Edu! </h2> <br>
+<p align="left">
+  <samp>
+  
+  Starting my journey into programming while studying software engineering at 42 School.
 
-<!--
-**Eduu19/Eduu19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have a deep passion for coding and am committed to becoming a human coder, with a focus on specialization in a field that I haven't determined yet.
 
-Here are some ideas to get you started:
+You can access my completed projects at 42 School by clicking here:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Libft](https://github.com/Eduu19/42-project-badges/blob/main/badges/libftm.png?raw=true)](https://github.com/Eduu19/libft)
+[![GNL](https://github.com/Eduu19/42-project-badges/raw/main/badges/get_next_linem.png)](https://github.com/Eduu19/get_next_line)
+[![printf](https://github.com/Eduu19/42-project-badges/raw/main/badges/ft_printfe.png)](https://github.com/Eduu19/ft_printf)
+
+Feel Free to reach me :)
+
+Discord: edu2metros
+</div>
