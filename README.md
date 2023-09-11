@@ -13,7 +13,7 @@ You can access my completed projects at 42 School by clicking here:
 [![GNL](https://github.com/Eduu19/42-project-badges/raw/main/badges/get_next_linem.png)](https://github.com/Eduu19/get_next_line)
 [![printf](https://github.com/Eduu19/42-project-badges/raw/main/badges/ft_printfe.png)](https://github.com/Eduu19/ft_printf)
 
-Feel Free to reach me :)
+Feel free to reach me :)
 
 Discord: edu2metros
 </div>
