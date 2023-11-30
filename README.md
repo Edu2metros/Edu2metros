@@ -15,6 +15,7 @@ You can access my completed projects at 42 School by clicking here:
 [![Born2BeRoot](https://github.com/byaliego/42-project-badges/raw/main/badges/born2berootm.png)](https://github.com/Eduu19/Guia-Rocky---Born2BeRoot-42)
 [![Fract-ol](https://github.com/Eduu19/42-project-badges/raw/main/badges/fract-olm.png)](https://github.com/Eduu19/Fractal)
 [![Minitalk](https://github.com/Eduu19/42-project-badges/raw/main/badges/minitalkm.png)](https://github.com/Eduu19/Minitalk)
+[![Push_swap](https://github.com/Edu2metros/42-project-badges/raw/main/badges/push_swape.png)](https://github.com/Edu2metros/push_swap)
 
 Feel free to reach me :)
 
