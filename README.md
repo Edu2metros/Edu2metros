@@ -5,7 +5,7 @@
   
   Starting my journey into programming while studying software engineering at 42 School.
 
-I have a deep passion for coding and am committed to becoming a human coder, with a focus on specialization in a field that I haven't determined yet.
+I have a deep passion for coding and am committed to becoming a human coder.
 
 You can access my completed projects at 42 School by clicking here:
 
@@ -17,7 +17,9 @@ You can access my completed projects at 42 School by clicking here:
 [![Minitalk](https://github.com/Eduu19/42-project-badges/raw/main/badges/minitalkm.png)](https://github.com/Eduu19/Minitalk)
 [![Push_swap](https://github.com/Edu2metros/42-project-badges/raw/main/badges/push_swape.png)](https://github.com/Edu2metros/push_swap)
 
-Feel free to reach me :)
+Feel free to reach me:
 
-Discord: edu2metros
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/edu2metros/)
+[![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)](https://discord.com/users/edu2metros)
+
 </div>
