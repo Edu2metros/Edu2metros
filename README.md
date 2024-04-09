@@ -17,7 +17,7 @@ You can access my completed projects at 42 School by clicking here:
 [![Minitalk](https://github.com/Eduu19/42-project-badges/raw/main/badges/minitalkm.png)](https://github.com/Eduu19/Minitalk)
 [![Push_swap](https://github.com/Edu2metros/42-project-badges/raw/main/badges/push_swape.png)](https://github.com/Edu2metros/push_swap)
 [![Minishell](https://github.com/Edu2metros/42-project-badges/blob/main/badges/minishelle.png?raw=true)](https://github.com/Edu2metros/Minihell)
-
+[![Philosophers](https://github.com/Edu2metros/42-project-badges/raw/main/badges/philosophersm.png)](https://github.com/Edu2metros/Philosophers)
 Feel free to reach me:
 
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/edu2metros/)
