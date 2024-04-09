@@ -13,7 +13,7 @@ I have a deep passion for coding and am committed to becoming a human coder.
 [![Fract-ol](https://github.com/Eduu19/42-project-badges/raw/main/badges/fract-olm.png)](https://github.com/Eduu19/Fractal)
 [![Minitalk](https://github.com/Eduu19/42-project-badges/raw/main/badges/minitalkm.png)](https://github.com/Eduu19/Minitalk)
 [![Push_swap](https://github.com/Edu2metros/42-project-badges/raw/main/badges/push_swape.png)](https://github.com/Edu2metros/push_swap)
-[![Minishell](https://github.com/Edu2metros/42-project-badges/blob/main/badges/minishelle.png?raw=true)](https://github.com/Edu2metros/Minihell)
+[![Minishell](https://github.com/Edu2metros/42-project-badges/raw/main/badges/minishellm.png)](https://github.com/Edu2metros/Minihell)
 [![Philosophers](https://github.com/Edu2metros/42-project-badges/raw/main/badges/philosophersm.png)](https://github.com/Edu2metros/Philosophers)
 
 ### Find Me:
