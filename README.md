@@ -17,6 +17,7 @@ I have a deep passion for coding and am committed to becoming a human coder.
 [![Philosophers](https://github.com/Edu2metros/42-project-badges/raw/main/badges/philosophersm.png)](https://github.com/Edu2metros/Philosophers)
 [![NetPractice](https://github.com/Edu2metros/42-project-badges/raw/main/badges/netpracticem.png)](https://github.com/Edu2metros/NetPractice)
 [![Cub3d](https://github.com/Edu2metros/42-project-badges/raw/main/badges/cub3dm.png)](https://github.com/Edu2metros/Cub3d)
+[![CPP](https://github.com/Edu2metros/42-project-badges/raw/main/badges/cppe.png)](https://github.com/Edu2metros/CPP)
 ### Find Me:
 
 Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/edu2metros/) or [Discord](https://discord.com/users/edu2metros).
