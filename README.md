@@ -18,6 +18,8 @@ I have a deep passion for coding and am committed to becoming a human coder.
 [![NetPractice](https://github.com/Edu2metros/42-project-badges/raw/main/badges/netpracticem.png)](https://github.com/Edu2metros/NetPractice)
 [![Cub3d](https://github.com/Edu2metros/42-project-badges/raw/main/badges/cub3dm.png)](https://github.com/Edu2metros/Cub3d)
 [![CPP](https://github.com/Edu2metros/42-project-badges/raw/main/badges/cppe.png)](https://github.com/Edu2metros/CPP)
+[![Inception](https://github.com/Edu2metros/42-project-badges/raw/main/badges/inceptione.png)](https://github.com/Edu2metros/Inception)
+[![Webserv](https://github.com/Edu2metros/42-project-badges/raw/main/badges/webservm.png)](https://github.com/saisilcastro/webserver)
 ### Find Me:
 
 Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/edu2metros/) or [Discord](https://discord.com/users/edu2metros).
